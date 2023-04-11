@@ -1,0 +1,28 @@
+{
+  "name": "beadando2023_tk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takacske/Beadando2023_TK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takacske/Beadando2023_TK/issues"
+  },
+  "homepage": "https://github.com/takacske/Beadando2023_TK#readme",
+  "dependencies": {
+    "@prisma/client": "^4.12.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "prisma": "^4.12.0"
+  }
+}
